@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <!-- Database Settings -->
+    <entry key="database.driverClassName">org.mariadb.jdbc.Driver</entry>
+    <entry key="database.url"><![CDATA[jdbc:mariadb://localhost:3306/spring_learning?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true]]></entry>
+    <entry key="database.username">root</entry>
+    <entry key="database.password">1q2w3e4r#</entry>
+
+</properties>
