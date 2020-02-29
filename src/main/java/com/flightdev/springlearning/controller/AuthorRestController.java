@@ -28,7 +28,6 @@ public class AuthorRestController {
 
     @RequestMapping(value = "/authors", method = RequestMethod.POST)
     public void save(@RequestBody Author author) {
-
         authorService.save(author);
     }
 
